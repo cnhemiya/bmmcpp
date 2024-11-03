@@ -54,5 +54,6 @@
         "ratio": "cpp",
         "mutex": "cpp",
         "thread": "cpp"
-    }
+    },
+    "Codegeex.RepoIndex": true
 }

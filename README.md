@@ -83,4 +83,4 @@ algo example end
 
 ## 项目地址
 
-**GITEE**&nbsp;&nbsp;&nbsp;&nbsp;**https://gitee.com/cnhemiya/bmm-cpp**
+**GITEE**&nbsp;&nbsp;&nbsp;&nbsp;**https://gitee.com/cnhemiya/bmmcpp**
